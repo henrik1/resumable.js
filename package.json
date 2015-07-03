@@ -1,0 +1,24 @@
+{
+  "name": "resumable.js",
+  "version": "1.0.2",
+  "description": "A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API",
+  "homepage": "https://github.com/henrik1/resumable.js",
+  "author": {
+    "url": "https://github.com/henrik1/resumable.js"
+  },
+  "keywords": [
+    "HTML5 File API",
+    "Upload",
+    "Large files"
+  ],
+  "main": "./resumable.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henrik1/resumable.js.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
